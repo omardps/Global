@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema Analítico de Video</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div><h1>SISTEMA ANALÍTICO DE VIDEO</h1>
+    <div class="img-slider">
+      <div class="slide active">
+        <img src="img/A.jpg" alt="">
+        <div class="info">
+          <h2>Picture 1</h2>
+          <p>Inicio de sesiónn.</p>
+        </div>
+      </div>
+     <div class="slide">
+        <img src="img/A2.jpg" alt="">
+        <div class="info">
+          <h2>Picture 2</h2>
+          <p>Codigo.</p>
+        </div>
+      </div>
+      <div class="slide">
+        <img src="img/A3.jpg" alt="">
+        <div class="info">
+          <h2>Picture 3</h2>
+          <p>Carama 1 Funcionando.</p>
+        </div>
+      </div>
+      <div class="slide">
+        <img src="img/A4.jpg" alt="">
+        <div class="info">
+          <h2>Picture 4</h2>
+          <p>Caramas 2 Funcionando.</p>
+        </div>
+      </div>
+
+      <div class="navigation">
+        <div class="btn active"></div>
+        <div class="btn"></div>
+        <div class="btn"></div>
+        <div class="btn"></div>
+      </div>
+    </div>
+  </div>
+
+    <script src="../01Global/js/main.js"></script>
+    
+   
+  </body>
+</html>
